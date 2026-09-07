@@ -49,7 +49,7 @@ https://math-visualizer-mp.vercel.app
 ## ⚡ Quick Start
 
 ```bash
-git clone https://github.com/Akash-MP444/Math-Visualizer.git
+git clone https://github.com/Akash-MP19/Math-Visualizer.git
 
 cd Math-Visualizer
 
